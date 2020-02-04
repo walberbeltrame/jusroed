@@ -1,2 +1,2 @@
-# Jusred
-The source for a template just for user manager of responsive environments in supported modern programming languages.
+# Jusroed
+The source for a template just for users organizer based on responsive environments in supported modern programming languages.
